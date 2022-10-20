@@ -1,5 +1,12 @@
 let num=12;
-let count=1
+let count=0;
 for(let i=0;i<=num;i++){
-if(i%2==0)
+if(num%i==0){
+  count++;
+}
+}if(count==2){
+  console.log("Yes");
+}else{
+  console.log("No");
+}
 
