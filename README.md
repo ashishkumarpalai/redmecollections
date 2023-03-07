@@ -1,3 +1,19 @@
+# detai;
+<details>	
+  <summary><b> Github Streaks 🔥</b></summary><br>
+  <p align="center">
+  <a href="#"><img width="500px" src="https://github-readme-streak-stats.herokuapp.com/?user=Shikha-code36&hide_border=true&theme=dark"></a></p>
+</details>
+<details>
+  <summary><b> Profile Views 👁️</b></summary>
+  <br>
+  <img src="https://komarev.com/ghpvc/?username=Shikha-code36&label=PROFILE+VIEWS&style=for-the-badge&color=brightgreen">
+</details>
+
+# pin project
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+
+
 # extra 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" />, I'm Nate!</h1>
 <h3 align="center">I love Data Science, Automation, Web-Development, and Open-Source!</h3>
