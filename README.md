@@ -1,3 +1,7 @@
+## photo
+![](https://github-stats-alpha.vercel.app/api?username=ashishkumarpalai&cc=000&tc=fff&ic=fff&bc=000)
+![](https://github-stats-alpha.vercel.app/api?username=ashishkumarpalai)
+
 # git_practice_assignment
 [![trophy](https://github-profile-trophy.vercel.app/?username=ashishkumarpalai)]
 
